@@ -18,15 +18,26 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-* **Frontend & UI/UX:** React, Angular, TypeScript, Tailwind CSS, Figma
-* **Backend & Datos:** Java, Spring Boot, Node.js, PostgreSQL, MySQL, MongoDB
-* **DevOps & IA:** Git, Docker, AWS, IA & Prompt Engineering
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
 
 <br/>
 
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandoBall10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Adrián" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <a href="https://github.com/SandoBall10">
+    <img src="https://github-readme-stats.vercel.app/api?username=SandoBall10&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Adrián" height="160" />
+  </a>
+  <a href="https://github.com/SandoBall10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="160" />
+  </a>
 </div>
