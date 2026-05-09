@@ -33,6 +33,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=SandoBall10&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/SandoBall10)
+[![Estadísticas de Racha de Adrián](https://streak-stats.demolab.com?user=SandoBall10&theme=tokyonight&hide_border=true&locale=es)](https://github.com/SandoBall10)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SandoBall10)
