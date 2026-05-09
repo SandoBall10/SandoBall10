@@ -33,6 +33,11 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Estadísticas de Racha de Adrián](https://streak-stats.demolab.com?user=SandoBall10&theme=tokyonight&hide_border=true&locale=es)](https://github.com/SandoBall10)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SandoBall10)
+<div align="center">
+  <a href="https://github.com/SandoBall10">
+    <img src="https://streak-stats.demolab.com?user=SandoBall10&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Racha de Adrián" height="170" />
+  </a>
+  <a href="https://github.com/SandoBall10">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true&custom_title=Lenguajes%20Principales" alt="Lenguajes más usados" height="170" />
+  </a>
+</div>
