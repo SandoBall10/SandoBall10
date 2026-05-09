@@ -33,11 +33,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  <a href="https://github.com/SandoBall10">
-    <img src="https://github-readme-stats.vercel.app/api?username=SandoBall10&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de Adrián" height="160" />
-  </a>
-  <a href="https://github.com/SandoBall10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="160" />
-  </a>
-</div>
+[![Estadísticas de Adrián](https://github-readme-stats.vercel.app/api?username=SandoBall10&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/SandoBall10)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SandoBall10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/SandoBall10)
